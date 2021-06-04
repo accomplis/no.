@@ -45,7 +45,7 @@ const commands = {
 	links: 
 	{
 		cmd: 'links',
-		res: 'Links:<br># <span class="red"><a href="https://discord.gg/badge" target="_blank"><u>Discord</u></a></span> - My Discord Account.<br># <span class="red"><a href="https://github.com/82n" target="_blank"><u>Github</u></a></span> - Where i post my code<br># <span class="red"><a href="https://steamcommunity.com/id/koreazz" target="_blank"><u>Steam</u></a></span> - You can find me there <span class="green">Online</span> most of the time.<br># <span class="red"><a href="http://ratted.xyz" target="_blank"><u>My Downloads</u></a></span> - All Of My Downloads for youtube.</span><br># <span class="red"><a href="https://www.youtube.com/channel/UCgWSkoGwV_ith3m0NAbKoqg?view_as=subscriber" target="_blank"><u>Youtube</u></a></span> - Some trash content, I post there.<br># <span class="red"><a href="" target="_blank"><u></u></a></span>'
+		res: 'Links:<br># <span class="red"><a href="https://discord.gg/badge" target="_blank"><u>Discord</u></a></span> - My Discord Account.<br># <span class="red"><a href="https://github.com/82n" target="_blank"><u>Github</u></a></span> - Where i post my code<br># <span class="red"><a href="https://steamcommunity.com/id/Discordlnc" target="_blank"><u>Steam</u></a></span> - You can find me there <span class="green">Online</span> most of the time.<br># <span class="red"><u></u></a></span>'
 	},
 	visitors: 
 	{
